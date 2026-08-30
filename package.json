@@ -74,14 +74,14 @@
     "vite": "^2.1.5",
     "xml2json": "^0.12.0"
   },
-  "devDependencies": {
+ "devDependencies": {
     "@babel/core": "^7.12.10",
-    "@babel/plugin-proposal-decorators": "^7.12.12",
+    "@babel/plugin-proposal-decorators": "^7.12.1",
     "@egoist/prettier-config": "^0.1.0",
     "@types/node": "^14.14.21",
     "@types/react": "^18.2.14",
     "@types/react-dom": "^18.2.6",
-    "babel-plugin-transform-typescript-metadata": "^0.3.1",
+    "babel-plugin-transform-typescript-metadata": "^0.3.2",
     "prettier": "^2.2.1",
     "pretty-quick": "^3.1.0",
     "prisma": "^5.0.0",
@@ -89,7 +89,6 @@
     "typescript": "^4.8.2"
   },
   "engines": {
-  "node": "18.x"
+    "node": "18.x"
   }
 }
-
