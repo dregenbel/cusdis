@@ -1,8 +1,5 @@
-
 {
   "name": "cusdis",
-
-  
   "scripts": {
     "dev": "DB_TYPE=sqlite npm run dev:general",
     "dev:pg": "DB_TYPE=pgsql npm run dev:general",
@@ -75,7 +72,7 @@
     "vite": "^2.1.5",
     "xml2json": "^0.12.0"
   },
- "devDependencies": {
+  "devDependencies": {
     "@babel/core": "^7.12.10",
     "@babel/plugin-proposal-decorators": "^7.12.1",
     "@egoist/prettier-config": "^0.1.0",
